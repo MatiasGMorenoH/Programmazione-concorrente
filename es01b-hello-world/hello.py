@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-// Matias Moreno 4CINF - 26/10/2026
-
 """Hello World: dal programma Python al processo in esecuzione."""
 import os
 
